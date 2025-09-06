@@ -41,7 +41,7 @@ You can download my full CV [here](https://SaharDordaei.github.io/assets/(Sahar%
 ## License
 
 This project is licensed under the **MIT License**.  
-You're free to use, modify, and distribute it — just give proper attribution.
+You are free to use, modify, and distribute it with attribution.
 
 ---
 
