@@ -1,44 +1,60 @@
-# My Academic Website
+# Sahar Dordaei Joghan – Academic Website
 
-This is my personal academic website, built using React, Vite, and Tailwind CSS.
-
----
-
-## Files Included
-
-| File/Filename        | Description                                  |
-|----------------------|----------------------------------------------|
-| `/public/cv.pdf`     | My full academic CV (PDF) for download       |
-| `/src/`              | Website source files (React components)      |
-| `README.md`          | Project overview and structure               |
-| `LICENSE`            | MIT License for reuse                        |
-| `vite.config.js`     | Vite configuration                           |
+This is my personal academic website, built using **React**, **Vite**, and **Tailwind CSS**, and deployed via **GitHub Pages**.
 
 ---
 
 ## Live Website
 
-🌐 [https://SaharDordaei.github.io](https://SaharDordaei.github.io)
+**[Visit my website →](https://SaharDordaei.github.io)**
+
+---
+
+## Project Structure
+
+| Path                        | Description                                    |
+|----------------------------|------------------------------------------------|
+| `/public/assets/`          | Static assets like my academic CV (PDF)        |
+| `/src/`                    | React source files and components              |
+| `index.css`                | Tailwind and custom global styles              |
+| `vite.config.js`           | Vite configuration for development and deploy  |
+| `README.md`                | This file: Project overview and instructions   |
+| `LICENSE`                  | MIT License for reuse and distribution         |
+
+---
+
+## Academic CV
+
+You can download my full CV [here](https://SaharDordaei.github.io/assets/(Sahar%20DORDAEI%20JOGHAN)%20CV.pdf).
+
+---
+
+## Tech Stack
+
+- **React** – component-based UI
+- **Vite** – fast build tool
+- **Tailwind CSS** – utility-first styling
+- **GitHub Pages** – static site hosting
 
 ---
 
 ## License
 
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with attribution.
+You're free to use, modify, and distribute it — just give proper attribution.
 
 ---
 
 ## Author
 
 **Sahar Dordaei Joghan**  
-September 2025  
+🗓️ September 2025
 
 ---
 
 ## Acknowledgments
 
-- [React](https://reactjs.org/)
+- [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [GitHub Pages](https://pages.github.com/)
