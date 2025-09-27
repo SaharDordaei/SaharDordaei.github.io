@@ -53,7 +53,7 @@ export default function Home() {
               <ul className="list-disc list-inside text-black">
                 <li>B.Sc. in Physics, Shahid Rajaee Teacher Training University (2019–2023)</li>
                 <li>Final two years GPA: 19.10/20 (4.0/4), Overall GPA: 17.40/20 (3.61/4.0)</li>
-                <li>Relevant Coursework: Stellar Structure and Evolution, Astronomy and Astrophysics, Cosmology, Numerical Computation, Quantum Mechanics I & II, Thermodynamics and Statistical Physics I & II, Electromagnetism I & II, Analytical Mechanics I & II, Nuclear & Particle Physics, Spectroscopy, Optics</li>
+                <li>Relevant Coursework: Stellar Structure & Evolution, Astronomy & Astrophysics, Cosmology, Numerical Computations, Quantum Mechanics, Electromagnetism, Thermodynamics & Statistical Physics, Optics, Spectroscopy, Laser Physics, Mathematical Physics, Analytical Mechanics, Physics Project</li>
               </ul>
             </div>
 
@@ -63,6 +63,7 @@ export default function Home() {
                 <li><a href="https://coursera.org/verify/T64VLFKNACC6" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Data-driven Astronomy, The University of Sydney</a></li>
 				<li><a href="https://coursera.org/verify/PVQ6MRLDAXBU" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">From the Big Bang to Dark Energy, The University of Tokyo</a></li>
                 <li><a href="https://faradars.org/verify/E2CFE1C0" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Celestial Observation and Astronomy Essentials, Faradars</a></li>
+				<li><a href="https://faradars.org/verify/9DB90D43" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Research Methods: Thesis Writing, Faradars</a></li>
                 <li><a href="https://coursera.org/verify/BLVCVXQJY7AH" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Introduction to Data Science in Python, University of Michigan</a></li>
                 <li><a href="https://coursera.org/verify/UBUJJJBUP7TH" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Improving Communication Skills, University of Pennsylvania</a></li>				
                 <li><a href="https://coursera.org/verify/XPLP8GBGD3BY" target="_blank" rel="noopener noreferrer" className="text-black hover:underline">Leading Teams, University of Michigan</a></li>
@@ -113,7 +114,7 @@ export default function Home() {
 
         {/* === FOOTER === */}
         <div className="text-center text-sm text-gray-900 mt-8">
-          Last updated: September 2025
+          Last updated: October 2025
         </div>
       </main>
     </>
