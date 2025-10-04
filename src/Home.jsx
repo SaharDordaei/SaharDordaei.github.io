@@ -21,7 +21,7 @@ export default function Home() {
             <p className="text-black mb-6">M.Sc. Applicant in Physics and Astronomy</p>
 
             <p className="text-black mb-4">
-              Hi! I’m a prospective graduate student in astrophysics, interested in understanding the universe at both large and small scales, from the early Universe, the CMB, dark matter/energy, to how galaxies and stars form and evolve.
+              Hi! I’m a prospective graduate student in astrophysics, interested in understanding the universe at both large and small scales, from the early Universe, inflation, the CMB, dark matter/energy, to how galaxies, stars, and compact objects form and evolve.
             </p>
             <p className="text-black mb-4">
               I enjoy working on projects that bring together theoretical, computational, and observational approaches. Since graduation, alongside teaching physics, I’ve been building small tools to explore different cosmic phenomena, such as visualizing the cosmic microwave background and simulating motion under varying planetary gravities.
