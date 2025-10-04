@@ -85,7 +85,7 @@ export default function Home() {
               <h3 className="font-bold">Teaching Experience</h3>
               <ul className="list-disc list-inside text-black">
                 <li>High School Physics Teacher (Mar 2023–current)</li>
-                <li>Teaching Assistant, Electromagnetism II (Oct 2022–Jan 2023)</li>
+                <li>Teaching Assistant, Electromagnetism I & II (Spring 2022–Fall 2022)</li>
                 <li>Physics Teaching Intern (Oct 2021–Jun 2022)</li>
               </ul>
             </div>
