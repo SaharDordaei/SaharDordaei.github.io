@@ -52,7 +52,7 @@ export default function Home() {
               <h3 className="font-bold">Education</h3>
               <ul className="list-disc list-inside text-black">
                 <li>B.Sc. in Physics, Shahid Rajaee Teacher Training University (2019–2023)</li>
-                <li>Final two years GPA: 19.10/20 (4.0/4), Overall GPA: 17.40/20 (3.61/4.0)</li>
+                <li>Final two years GPA: 19.10/20 (4.0/4.0), Overall GPA: 17.40/20 (3.61/4.0)</li>
                 <li>Relevant Coursework: Stellar Structure & Evolution, Astronomy & Astrophysics, Cosmology, Numerical Computations, Quantum Mechanics, Electromagnetism, Thermodynamics & Statistical Physics, Optics, Spectroscopy, Laser Physics, Mathematical Physics, Analytical Mechanics, Physics Project</li>
               </ul>
             </div>

@@ -50,7 +50,7 @@ export default function Projects() {
         <li>
           <p className="font-semibold text-blue-800">Undergraduate Physics Project Course</p>
           <p>
-            Analyzed planetary surface features and characterized impact craters using ImageJ and image processing techniques.
+            Conducted comparative analysis and characterization of lunar and Mercurian impact craters (primary and secondary) using image-processing techniques
           </p>
         </li>
 
