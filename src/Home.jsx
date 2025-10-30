@@ -74,7 +74,7 @@ export default function Home() {
             <div className="mb-4">
               <h3 className="font-bold">Honors and Awards</h3>
               <ul className="list-disc list-inside text-black">
-                <li>Merit-Based Admission Offer to the Master of Physics (Exempted from taking the national mandatory entrance exam with full tuition waiver)</li>
+                <li>Fully Funded Merit-Based Admission Offer, M.Sc. Physics (Exempted from national entrance exam; full tuition waiver awarded based on academic excellence)</li>
                 <li>National Scholarship (Full Tuition Waiver + Monthly Stipend), Ministry of Education, Iran (B.Sc. Physics, 2019–2023)</li>
                 <li>Graduating Class Academic Award (Top 10%), Shahid Rajaee Teacher Training University</li>
                 <li>Astronomy Association Honors, Shahid Rajaee Teacher Training University</li>
